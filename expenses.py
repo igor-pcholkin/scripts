@@ -44,7 +44,7 @@ def parseExpenses(rawExpenses):
 categories = [ 
 	Category("Food & Home (Shop)", ["MAXIMA", "RIMI", "MARKET", "Veikals", "MEGO", "BETA", "MULTICOOK LATGALES IELA", "Auglu un darzenu pasau", "TIRGUS"], ["DK Zall"]),
 	Category("Food Orders (Wolt)", ["Wolt"]),
-	Category("Food for Valja", ["VALENTĪNA BONDARČUKA"]),
+	Category("Food for Valja", ["VALENTĪNA BO"]),
 	Category("Bistro & Restaurants", ["Aleksandrs-pusdienu", "LIDO", "SENJORITA KUKU", "MCA SIA", "Bistro", "BISTRO", "SIA Cydonia", "GAN BEI", "BAKA", "Rama-vegetarais restor"]),
 	Category("Cafe", ["SANITEX", "NARVESEN", "MCDONALDS", "CIRCLE K", "kafejnica", "Kafejnica", "Alma", "KAFIJA", "GUSTAVBEKEREJA", "Bekereja", "12EAT", "GELATO ITALIA"]),
 	Category("Pet Shop", ["DINO ZOO", "ZOOCENTRS"]),
